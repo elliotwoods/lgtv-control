@@ -1,0 +1,116 @@
+{
+  "picture": {
+    "backlight": 100,
+    "brightness": 50,
+    "contrast": "100",
+    "color": 50,
+    "tint": "0",
+    "sharpness": 0,
+    "colorTemperature": "0",
+    "colorGamut": "adobeRGB",
+    "blackLevel": {
+      "secam": "auto",
+      "ntsc": "auto",
+      "pal60": "auto",
+      "ntsc443": "auto",
+      "pal": "auto",
+      "unknown": "auto",
+      "paln": "auto",
+      "palm": "auto"
+    },
+    "hdrDynamicToneMapping": "off",
+    "energySaving": "off",
+    "motionEyeCare": "off",
+    "dynamicContrast": "off",
+    "peakBrightness": "high",
+    "superResolution": "off",
+    "noiseReduction": "off",
+    "mpegNoiseReduction": "off",
+    "smoothGradation": "off",
+    "dynamicColor": "off",
+    "pictureMode": "hdrGame",
+    "gamma": "medium"
+  },
+  "other": {
+    "uhdDeepColorHDMI1": "off"
+  },
+  "aspectRatio": {},
+  "inputs": [
+    {
+      "id": "HDMI_1",
+      "label": "Mac",
+      "port": 1,
+      "connected": true,
+      "appId": "com.webos.app.hdmi1",
+      "icon": "https://10.0.10.215:3001/resources/b63a1186c286727b55ed89991b6b2402d3bc3eb0/HDMI_1.png",
+      "forceIcon": false,
+      "modified": false,
+      "lastUniqueId": 4,
+      "hdmiPlugIn": true,
+      "hdmiSignalExist": false,
+      "subList": [
+        {
+          "id": "SIMPLINK",
+          "portId": 1,
+          "uniqueId": 4,
+          "vendorId": 4346,
+          "physicalAddress": 4096,
+          "depth": 1,
+          "osdName": "Mac",
+          "cecpDevType": 4,
+          "cecpNewType": 9
+        }
+      ],
+      "subCount": 1,
+      "favorite": false
+    },
+    {
+      "id": "HDMI_2",
+      "label": "HDMI 2",
+      "port": 2,
+      "connected": false,
+      "appId": "com.webos.app.hdmi2",
+      "icon": "https://10.0.10.215:3001/resources/73971eaea57c84d55f9c66b84664abd97a89166d/HDMI_2.png",
+      "forceIcon": false,
+      "modified": false,
+      "lastUniqueId": -1,
+      "hdmiPlugIn": false,
+      "hdmiSignalExist": false,
+      "subList": [],
+      "subCount": 0,
+      "favorite": false
+    },
+    {
+      "id": "HDMI_3",
+      "label": "HDMI 3",
+      "port": 3,
+      "connected": false,
+      "appId": "com.webos.app.hdmi3",
+      "icon": "https://10.0.10.215:3001/resources/942372d603ec3df0188e8ea7d92c9bb5de3d4d3d/HDMI_3.png",
+      "forceIcon": false,
+      "modified": false,
+      "lastUniqueId": -1,
+      "hdmiPlugIn": false,
+      "hdmiSignalExist": false,
+      "subList": [],
+      "subCount": 0,
+      "favorite": false
+    },
+    {
+      "id": "HDMI_4",
+      "label": "HDMI 4",
+      "port": 4,
+      "connected": false,
+      "appId": "com.webos.app.hdmi4",
+      "icon": "https://10.0.10.215:3001/resources/44c4373c09b36ce81f89e1606cf32c08138268c5/HDMI_4.png",
+      "forceIcon": false,
+      "modified": false,
+      "lastUniqueId": -1,
+      "hdmiPlugIn": false,
+      "hdmiSignalExist": false,
+      "subList": [],
+      "subCount": 0,
+      "favorite": false
+    }
+  ]
+}

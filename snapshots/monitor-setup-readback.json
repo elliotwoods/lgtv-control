@@ -1,0 +1,21 @@
+{
+  "dynamicColor": "off",
+  "peakBrightness": "high",
+  "brightness": 50,
+  "colorTemperature": -50,
+  "sharpness": 0,
+  "mpegNoiseReduction": "off",
+  "contrast": 100,
+  "pictureMode": "hdrStandard",
+  "colorGamut": "auto",
+  "color": 50,
+  "superResolution": "off",
+  "backlight": 64,
+  "motionEyeCare": "off",
+  "tint": 0,
+  "noiseReduction": "off",
+  "hdrDynamicToneMapping": "off",
+  "smoothGradation": "off",
+  "energySaving": "off",
+  "dynamicContrast": "off"
+}
